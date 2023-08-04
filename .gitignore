@@ -12,8 +12,8 @@
 /wp-content/themes/index.php
 /wp-includes/
 #/index.php
-/license.txt
-/readme.html
+#/license.txt
+#/readme.html
 /wp-*.php
 /xmlrpc.php
 
